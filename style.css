@@ -1,0 +1,18 @@
+/* Add the following styles to your existing CSS */
+
+/* Style the skill range */
+.skill-range {
+    width: 200px;
+    height: 10px;
+    background-color: #eee;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the range bar */
+  .range-bar {
+    height: 100%;
+    background-color: #42b983;
+  }
+  
+  /* Adjust other styles as per your requirements */
+  
